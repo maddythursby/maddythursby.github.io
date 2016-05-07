@@ -1,0 +1,39 @@
+.intro {
+    color: darkblue;
+    background-color:azure;
+}
+.intro img {
+    height: 300px;
+    width: 400px;
+}
+
+.my_projects {
+    color:coral;
+    background-color: azure;
+}
+
+.my_projects h1 {
+    text-align: center;
+}
+
+.my_projects .project {
+    color: inherit;
+    background-color: inherit;
+}
+
+.contact_me {
+    color:coral;
+    background-color: azure;
+    height: auto;
+    width: auto; 
+    text-align: center;
+}
+
+.contact_me .contact {
+    color: inherit;
+    background-color: inherit ;
+    height: auto;
+    width: auto; 
+    text-align: center;
+    
+}
